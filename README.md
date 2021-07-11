@@ -1,0 +1,2 @@
+# nlp_jobs_comparator
+Used to identify underlying similarities between job postings.  Comparison excludes phrases including: job titles, locations, and equal-opportunity-employment disclaimer language.  By isolating commonly occurring phrases and keywords, a user can more easily identify similarly appealing job listings in the future.  Results are isolated to top-5 single, double, and triple word phrases.
