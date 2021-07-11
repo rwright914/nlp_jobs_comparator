@@ -5,7 +5,7 @@
     Author:     Rebecca Wright
     Date:       July 11, 2021
 
-    Purpose:    To identify underlying similarities between job postings.  Comparison excludes phrases including: job titles, locations, and equal-opportunity-employment disclaimer language.
+    Purpose:    Executable pyton script to identify underlying similarities between job postings.  Comparison excludes phrases including: job titles, locations, and equal-opportunity-employment disclaimer language.
                 By isolating commonly occurring phrases and keywords, a user can more easily identify similarly appealing job listings in the future.  Results are isolated to top-5 single, double, and triple word phrases.
     
     Future Application:     Results will be harnessed to train recommendation engine for identification of personalized preferential job postings.
